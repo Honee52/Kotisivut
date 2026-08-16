@@ -4,3 +4,4 @@
 - Muokattavissa tekstieditorilla (esim. Notepad++).
 - HTML/PHP/JS-koodiin sisältyy ohjeita.
 - Webhotelli: vaaditaan php ja sähköpostin lähetys.
+- Katso demo: https://www.technode.fi/Demo/
